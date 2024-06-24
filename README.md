@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/brainwave-clone.git
+   git clone https://github.com/ChinmayBagad/brainwave-clone.git
    cd brainwave-clone
    ```
 2. Install dependencies:
@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 4. Open your browser and navigate to http://localhost:5173.
 
 Usage
-Once the development server is running, you can view the cloned website in your browser. The site is fully responsive and should mirror the appearance and behavior of the original Brainwave website. You can also view the live version of the cloned website here.
+Once the development server is running, you can view the cloned website in your browser. The site is fully responsive and should mirror the appearance and behavior of the original Brainwave website. You can also view the live version of the cloned website [here](https://github.com/ChinmayBagad/brain_wave).
 
 Technologies Used
 React: A JavaScript library for building user interfaces.
